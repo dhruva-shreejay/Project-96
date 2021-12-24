@@ -1,0 +1,14 @@
+html
+{
+    background-color:blue;
+    color:white;
+}
+#user_name
+{
+    width: 500px;
+}
+img
+{
+    height:200px;
+    width:300px;
+}
